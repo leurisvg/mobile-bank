@@ -8,9 +8,9 @@ Author: [Anastasia](https://dribbble.com/anastasia-tino)
 
 ## Design
 
-![Farmers Market Finder Demo](demo/design.jpg)
+![Farmers Market Finder Demo](Demo/Design.jpg)
 
 ## Implementation
 
-![Farmers Market Finder Demo](demo/init_page.png)
-![Farmers Market Finder Demo](demo/home_page.png)
+![Farmers Market Finder Demo](Demo/init_page.png)
+![Farmers Market Finder Demo](Demo/home_page.png)
